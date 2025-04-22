@@ -78,13 +78,14 @@ int main() {
 SYMBOL  FOUND:
 
 
-![image](https://github.com/user-attachments/assets/0d3b1fea-bd58-4661-ac3b-b73e572e3d29)
+![image](https://github.com/user-attachments/assets/4aa7b01b-e6bd-4eca-a5dc-93fe57c96650)
 
 
 SYMBOL NOT FOUND :
 
 
-![image](https://github.com/user-attachments/assets/4dc777f0-570c-47fc-a00d-c90541ac08ed)
+![image](https://github.com/user-attachments/assets/3b73245d-8cd9-4b5e-9bef-3b8a82e54373)
+
 
 
 # RESULT
